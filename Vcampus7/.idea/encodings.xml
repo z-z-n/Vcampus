@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/client/Run.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/Sender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/CheckCode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/JTextFieldHintListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/LibAddPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/LibChangeDlg.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/LibChangePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/LibDelPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/LibMainPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/LibSearchPanel2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/service/LibStuLendPanel2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/view/MainPanelUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/view/MainUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/view/RegisterUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/view/SaleAdminiMainUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/view/StManagerUI_Mg.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/view/SuperAdminiMainUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/client/view/TeacherMainUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/common/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/common/ChangeWithReason.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/common/FileResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/common/HallInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/common/RegisterClass.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/common/SendFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/common/StuBasicInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/communication/Message.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/dao/DbOperation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/main/Demo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/service/EmailSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/server/service/VerificationCodeGetter.java" charset="UTF-8" />
+  </component>
+</project>
